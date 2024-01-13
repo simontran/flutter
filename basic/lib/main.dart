@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'page/my_home_page.dart';
+import 'page/day01/static_user_interface.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.dark,
-      home: MyHomePage(),
+      home: StaticUserInterface(),
     );
   }
 }
