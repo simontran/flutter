@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'page/day01/static_user_interface.dart';
+import 'page/part01/static_user_interface.dart';
+import 'page/part01/rich_text.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget {
       // themeMode: ThemeMode.dark,
       home: Scaffold(
         backgroundColor: Colors.black,
-        body: StaticUserInterface(),
+        // body: StaticUserInterface(),
+        body: RichTextWidget(),
       ),
     );
   }
