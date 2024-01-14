@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'page/part01/row_column.dart';
+import 'page/part01/stack.dart';
 import 'page/part01/static_user_interface.dart';
 import 'page/part01/rich_text.dart';
 
@@ -20,7 +21,8 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black,
         // body: StaticUserInterface(),
         // body: RichTextWidget(),
-        body: RowColumnWidget(),
+        // body: RowColumnWidget(),
+        body: StackWidget(),
       ),
     );
   }
