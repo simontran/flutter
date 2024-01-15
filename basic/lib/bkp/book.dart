@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_initializing_formals, avoid_print
+
 class Book {
   // late String name;
   // late int year;
