@@ -6,6 +6,7 @@ import 'page/part01/static_user_interface.dart';
 import 'page/part01/rich_text.dart';
 import 'page/part02/animation_day01.dart';
 import 'page/part02/animation_day02.dart';
+import 'page/part02/animation_day03.dart';
 
 void main() {
   runApp(const MyApp());
@@ -44,7 +45,8 @@ class MyApp extends StatelessWidget {
         ),
       ),
       // home: const AnimationDay01(),
-      home: const AnimationDay02(),
+      // home: const AnimationDay02(),
+      home: const AnimationDay03(),
     );
   }
 }
