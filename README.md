@@ -19,10 +19,12 @@ A. CÁC EXTENSION VS-CODE CẦN THIẾT CHO LẬP TRÌNH FLUTTER
    ９ー   
    
    ※ Nhấn tổ hợp phím bên dưới, tìm theo tên extension
-      - Windows: Ctrl + Shift + P
-      - Mac: Cmd + Shift + P
+   
+      + Windows: Ctrl + Shift + P
+      + Mac: Cmd + Shift + P
       
    ※ Một số setting hữu ích
+   
       - Windows: Ctrl + Shift + P      
       - Mac: Cmd + Shift + P      
       - tìm theo từ khóa: Open User Settings (JSON)      
