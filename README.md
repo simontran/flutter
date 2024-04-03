@@ -43,8 +43,22 @@ B. TIPS
       + Windows: Ctrl + /
       + Mac: Cmd + /
       
-   ２ー 
-   ３ー 
+   ２ー wrap hoặc extract một widget/method/..
+   
+      + Windows: Ctrl + /.
+      + Mac: Cmd + .
+   
+   ３ー widget phổ biến
+
+      + text: tạo một đoạn chữ
+      + column: tạo các phần tử theo dạng cột   (*) mainAxisAlignment: trên xuống
+      + row: tạo các phần tử theo dạng hàng   (*) mainAxisAlignment: trái phải
+      + stack: các phần tử có thể chồng lên nhau, thường kết hợp với positioned để tùy chỉnh vị trí
+      + container: tạo hộp khối có width và height, thường kết hợp với decoration để tùy chỉnh các BoxDecoration
+      + sizedbox: thường dùng để tạo khoảng cách nhỏ ở bên trong
+      + expanded: chia bố cục ra từng phần, thường dùng với flex để chia bao nhiêu phần
+      + center: giúp canh giữa widget con
+   
    ４ー 
    ５ー 
    ６ー 
