@@ -51,8 +51,8 @@ B. TIPS
    ３ー widget phổ biến
 
       + text: tạo một đoạn chữ
-      + column: tạo các phần tử theo dạng cột   (*) mainAxisAlignment: trên xuống
-      + row: tạo các phần tử theo dạng hàng   (*) mainAxisAlignment: trái phải
+      + column: tạo các phần tử theo dạng cột, thường kết hợp với mainAxisAlignment: trên xuống
+      + row: tạo các phần tử theo dạng hàng, thường kết hợp với mainAxisAlignment: trái phải
       + stack: các phần tử có thể chồng lên nhau, thường kết hợp với positioned để tùy chỉnh vị trí
       + container: tạo hộp khối có width và height, thường kết hợp với decoration để tùy chỉnh các BoxDecoration
       + sizedbox: thường dùng để tạo khoảng cách nhỏ ở bên trong
@@ -110,4 +110,4 @@ C. SYNTAX
       - có thể được gán giá trị sau khi nó được khai báo, và giá trị có thể tính toán khi chạy
       - ví dụ: final int TIME; TIME = 1;
 
-/* END */
+/*--- END ---*/
