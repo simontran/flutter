@@ -2,14 +2,14 @@
 import 'package:flutter/material.dart';
 import 'package:animate_do/animate_do.dart';
 
-class AnimationDay02 extends StatefulWidget {
-  const AnimationDay02({super.key});
+class Day02Animation extends StatefulWidget {
+  const Day02Animation({super.key});
 
   @override
-  State<AnimationDay02> createState() => _AnimationDay02State();
+  State<Day02Animation> createState() => _Day02AnimationState();
 }
 
-class _AnimationDay02State extends State<AnimationDay02> {
+class _Day02AnimationState extends State<Day02Animation> {
   bool animation = true;
   bool showText = false;
 

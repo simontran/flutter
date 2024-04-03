@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class AnimationDay01 extends StatefulWidget {
-  const AnimationDay01({super.key});
+class Day01Animation extends StatefulWidget {
+  const Day01Animation({super.key});
 
   @override
-  State<AnimationDay01> createState() => _AnimationDay01State();
+  State<Day01Animation> createState() => _Day01AnimationState();
 }
 
-class _AnimationDay01State extends State<AnimationDay01>
+class _Day01AnimationState extends State<Day01Animation>
     with TickerProviderStateMixin {
   late AnimationController _animationController;
 

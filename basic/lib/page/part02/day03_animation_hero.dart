@@ -1,10 +1,10 @@
 // ignore_for_file: depend_on_referenced_packages, unused_import
 import 'package:flutter/material.dart';
 import 'package:animate_do/animate_do.dart';
-import 'animation_day03_item.dart';
+import 'day03_animation_hero_item.dart';
 
-class AnimationDay03 extends StatelessWidget {
-  const AnimationDay03({super.key});
+class Day03Animation extends StatelessWidget {
+  const Day03Animation({super.key});
 
   @override
   Widget build(BuildContext context) {
