@@ -12,3 +12,10 @@ STEP 2: tách nhỏ thư mục từ main.dart　→　widget
 STEP 3: tạo showModelButton
 
     + button: card_model_button.dart
+
+TIP
+１ー hiển thị Widget Inspector
+
+    + Ctrl + Shift + P
+    + >Dart: Open DevTools
+    + Open Widget Inspector Page
