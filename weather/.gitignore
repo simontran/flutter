@@ -138,7 +138,7 @@ app.*.symbols
 !.vscode/settings.json
 
 # OS
-/ios
+.vscode
 /linux
 /macos
 /windows
